@@ -1,3 +1,20 @@
-# BST_Visualizer
-A small project to implemnt the Binary Search Tree Data Structure functionalities.
-It helps in visualy understanding the insertion and deletion of nodes in a binary search tree as well as stae the traversal order i.e. inorder, preorder, postorder traversal.
+
+# BST_Visulaizer
+
+BST Visualizer is an interactive tool for exploring Binary Search Trees (BSTs). It provides a graphical representation of BST operations, allowing users to visualize insertion and deletion as well as traversal order of the binary search tree i.e. inorder, preorder, and postorder traversal.
+
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/0-Yash-0/BST_Visualizer/assets/116195951/52fec63a-f1f8-44b2-a085-80a985dfd92b)
+
+adding nodes to the bst.
+![App Screenshot](https://github.com/0-Yash-0/BST_Visualizer/assets/116195951/44f2c582-a93f-4ec3-8daf-df7d51107108)
+
+deleting nodes from the bst 
+![App Screenshot](https://github.com/0-Yash-0/BST_Visualizer/assets/116195951/677113df-f14b-4557-a6a4-dd395eaac415)
+
+
+
+
